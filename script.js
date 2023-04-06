@@ -5,3 +5,4 @@ menuIcon.onclick = function(){
     sidebar.classList.toggle("small-sidebar");
 }
 console.log("hello world");
+console.log("my life becames hell");
